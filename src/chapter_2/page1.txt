@@ -1,0 +1,5 @@
+We teach programming for Software Development Engineer in Test(SDET) position.
+I have gathered the most asked interview coding questions
+from my own interview experience and from our student's interviews.
+I’m sure if you work through these coding questions,
+you can nail most of the coding interview questions for SDET.
